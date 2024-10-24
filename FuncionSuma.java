@@ -20,8 +20,7 @@ public class FuncionSuma {
 	 */	
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		
-		
+				
 		System.out.println("Introduce el primer sumando:");
 		primerSumando = in.nextInt();
 		in.nextLine();
